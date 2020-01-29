@@ -1,0 +1,984 @@
+Uri: http://www.rrc.sa/
+File Name: D:\Private\www.rrc.sa\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/themes/imkan/ar/css/grid.css
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\css\grid.css
+Content Type: text/css
+
+Uri: http://www.rrc.sa/themes/imkan/ar/css/pe-icon-7-stroke.css
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\css\pe-icon-7-stroke.css
+Content Type: text/css
+
+Uri: http://www.rrc.sa/themes/imkan/ar/css/owl.carousel.css
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\css\owl.carousel.css
+Content Type: text/css
+
+Uri: http://www.rrc.sa/themes/imkan/ar/css/magnific-popup.css
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://www.rrc.sa/themes/imkan/ar/css/font-awesome.min.css
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://www.rrc.sa/themes/imkan/ar/css/animate.min.css
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\css\animate.min.css
+Content Type: text/css
+
+Uri: http://www.rrc.sa/themes/imkan/ar/css/style.css
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\css\style.css
+Content Type: text/css
+
+Uri: http://www.rrc.sa/themes/imkan/ar/css/color.css
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\css\color.css
+Content Type: text/css
+
+Uri: http://www.rrc.sa/themes/imkan/ar/images/elements/favicon.ico
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\images\elements\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://www.rrc.sa/en
+File Name: D:\Private\www.rrc.sa\en.html
+Content Type: text/html
+
+Uri: http://www.rrc.sa/العقارات/الرياض/مبنى-شركة-عقارات-التجزئة/
+File Name: D:\Private\www.rrc.sa\العقارات\الرياض\مبنى-شركة-عقارات-التجزئة\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/العقارات/الرياض/الحسن-سكوير/
+File Name: D:\Private\www.rrc.sa\العقارات\الرياض\الحسن-سكوير\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/العقارات/الرياض/الوادي-سكوير/
+File Name: D:\Private\www.rrc.sa\العقارات\الرياض\الوادي-سكوير\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/العقارات/الرياض/فوود-9/
+File Name: D:\Private\www.rrc.sa\العقارات\الرياض\فوود-9\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/العقارات/الرياض/التعاون-سكوير/
+File Name: D:\Private\www.rrc.sa\العقارات\الرياض\التعاون-سكوير\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/العقارات/الرياض/شرفات-بارك-الندى/
+File Name: D:\Private\www.rrc.sa\العقارات\الرياض\شرفات-بارك-الندى\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/العقارات/الرياض/شرفات-الخير/
+File Name: D:\Private\www.rrc.sa\العقارات\الرياض\شرفات-الخير\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/العقارات/الرياض/طويق-بلازا/
+File Name: D:\Private\www.rrc.sa\العقارات\الرياض\طويق-بلازا\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/العقارات/الرياض/شرفات-بارك-الرمال/
+File Name: D:\Private\www.rrc.sa\العقارات\الرياض\شرفات-بارك-الرمال\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/العقارات/الرياض/شرفات-بارك-الغروب/
+File Name: D:\Private\www.rrc.sa\العقارات\الرياض\شرفات-بارك-الغروب\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/العقارات/الرس/الواحة-مول/
+File Name: D:\Private\www.rrc.sa\العقارات\الرس\الواحة-مول\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/العقارات/المجمعة/المجمعة-مول/
+File Name: D:\Private\www.rrc.sa\العقارات\المجمعة\المجمعة-مول\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/العقارات/شقراء/البساتين-مول/
+File Name: D:\Private\www.rrc.sa\العقارات\شقراء\البساتين-مول\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/العقارات/حائل/أجا-بلازا/
+File Name: D:\Private\www.rrc.sa\العقارات\حائل\أجا-بلازا\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/العقارات/حائل/النقرة-سكوير/
+File Name: D:\Private\www.rrc.sa\العقارات\حائل\النقرة-سكوير\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/العقارات/أبها/نهران-مول/
+File Name: D:\Private\www.rrc.sa\العقارات\أبها\نهران-مول\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/العقارات/مكة-المكرمة/بطحاء-سكوير/
+File Name: D:\Private\www.rrc.sa\العقارات\مكة-المكرمة\بطحاء-سكوير\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/العقارات/الخبر/شرفات-بارك-الراكة/
+File Name: D:\Private\www.rrc.sa\العقارات\الخبر\شرفات-بارك-الراكة\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/themes/imkan/ar/js/jquery.min.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/ar/js/modernizr.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\js\modernizr.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/ar/images/elements/logo.png
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\images\elements\logo.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/602/icn-retail-leasing-1.png
+File Name: D:\Private\www.rrc.sa\media\602\icn-retail-leasing-1.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/612/icn-malls-management-1.png
+File Name: D:\Private\www.rrc.sa\media\612\icn-malls-management-1.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/622/icn-development-consulting-1.png
+File Name: D:\Private\www.rrc.sa\media\622\icn-development-consulting-1.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/632/icn-research-marketing-1.png
+File Name: D:\Private\www.rrc.sa\media\632\icn-research-marketing-1.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/662/03.jpg?crop=0.27214374541754083,0.1824750967056859,0.084205119818134888,0.0011889443478245363&cropmode=percentage&width=400&height=255&rnd=130742047980000000
+File Name: D:\Private\www.rrc.sa\media\662\03.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1026/02.jpg?crop=0.21153646643842733,0,0,0.0000000000000001114576840408&cropmode=percentage&width=400&height=255&rnd=130742047300000000
+File Name: D:\Private\www.rrc.sa\media\1026\02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1029/04.jpg?crop=0.36079262407893553,0.3617723912048747,0.1530867876883934,0.024110131734218831&cropmode=percentage&width=400&height=255&rnd=130742045980000000
+File Name: D:\Private\www.rrc.sa\media\1029\04.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1032/day_aerial.jpg?crop=0.16219579646017698,0,0.24783370206489674,0.24778761061946902&cropmode=percentage&width=400&height=255&rnd=130668262180000000
+File Name: D:\Private\www.rrc.sa\media\1032\day_aerial.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1768/2.jpg?anchor=center&mode=crop&width=400&height=255&rnd=130742041700000000
+File Name: D:\Private\www.rrc.sa\media\1768\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/5820/الندى-3.png?anchor=center&mode=crop&width=400&height=255&rnd=131833971010000000
+File Name: D:\Private\www.rrc.sa\media\5820\الندى-3.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5818/الخير.png?anchor=center&mode=crop&width=400&height=255&rnd=131833971210000000
+File Name: D:\Private\www.rrc.sa\media\5818\الخير.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5815/untitled-4طويق.png?anchor=center&mode=crop&width=400&height=255&rnd=131833972430000000
+File Name: D:\Private\www.rrc.sa\media\5815\untitled-4طويق.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5812/12.png?anchor=center&mode=crop&width=400&height=255&rnd=131864955820000000
+File Name: D:\Private\www.rrc.sa\media\5812\12.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5829/web-7.png?anchor=center&mode=crop&width=400&height=255&rnd=131841768770000000
+File Name: D:\Private\www.rrc.sa\media\5829\web-7.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1013/01.jpg?crop=0.37134778510838828,0,0.00031416902293441006,0.0000000000000001114576840408&cropmode=percentage&width=400&height=255&rnd=130742049060000000
+File Name: D:\Private\www.rrc.sa\media\1013\01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1021/07.jpg?crop=0.63450980392156864,0.0000000000000001114576840408,0,0&cropmode=percentage&width=400&height=255&rnd=130742049940000000
+File Name: D:\Private\www.rrc.sa\media\1021\07.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1034/3.jpg?crop=0.23304413762749493,0.10167597164016305,0.32299620146583213,0.1663646736322405&cropmode=percentage&width=400&height=255&rnd=130742055430000000
+File Name: D:\Private\www.rrc.sa\media\1034\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1023/b2.jpg?crop=0.21568627450980393,0.2144026186579378,0,0&cropmode=percentage&width=400&height=255&rnd=130742054540000000
+File Name: D:\Private\www.rrc.sa\media\1023\b2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/5825/untitled-4png-النقرة.png?anchor=center&mode=crop&width=400&height=255&rnd=131833971960000000
+File Name: D:\Private\www.rrc.sa\media\5825\untitled-4png-النقرة.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5814/untitled-4pngنهران-مول.png?anchor=center&mode=crop&width=400&height=255&rnd=131833974020000000
+File Name: D:\Private\www.rrc.sa\media\5814\untitled-4pngنهران-مول.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5817/untitled-4dphx-s-dv.png?anchor=center&mode=crop&width=400&height=255&rnd=131843536560000000
+File Name: D:\Private\www.rrc.sa\media\5817\untitled-4dphx-s-dv.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5819/راكة.png?anchor=center&mode=crop&width=400&height=255&rnd=131833975150000000
+File Name: D:\Private\www.rrc.sa\media\5819\راكة.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/themes/imkan/en/images/elements/logo-address.png
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\images\elements\logo-address.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/themes/imkan/ar/images/elements/logo-address.png
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\images\elements\logo-address.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/themes/imkan/ar/js/device.min.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\js\device.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/ar/js/jquery.queryloader2.min.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\js\jquery.queryloader2.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/ar/js/SmoothScroll.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\js\SmoothScroll.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/ar/js/owl.carousel.min.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/ar/js/isotope.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\js\isotope.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/ar/js/jquery.isotope.sloppy-masonry.min.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\js\jquery.isotope.sloppy-masonry.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/ar/js/jquery.parallax.min.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\js\jquery.parallax.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/ar/js/jquery.scrollTo.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\js\jquery.scrollTo.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/ar/js/waypoints.min.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/ar/js/jquery.mb.YTPlayer.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\js\jquery.mb.YTPlayer.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/ar/js/jquery.magnific-popup.min.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/ar/js/easypiechart.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\js\easypiechart.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/ar/js/typed.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\js\typed.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/ar/js/wow.min.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\js\wow.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/ar/js/retina.min.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\js\retina.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/ar/js/jquery.soc-share.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\js\jquery.soc-share.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/ar/js/custom.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\js\custom.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/ar/js/canvas.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\js\canvas.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/scripts/jquery.validate.min.js
+File Name: D:\Private\www.rrc.sa\scripts\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/scripts/jquery.validate.unobtrusive.min.js
+File Name: D:\Private\www.rrc.sa\scripts\jquery.validate.unobtrusive.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/scripts/jquery.unobtrusive-ajax.min.js
+File Name: D:\Private\www.rrc.sa\scripts\jquery.unobtrusive-ajax.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/ar/fonts/Pe-icon-7-stroke.eot?-2irksn
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\fonts\Pe-icon-7-stroke.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.rrc.sa/themes/imkan/ar/fonts/Pe-icon-7-stroke.eot?
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\fonts\Pe-icon-7-stroke-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.rrc.sa/themes/imkan/ar/fonts/Pe-icon-7-stroke.woff?-2irksn
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\fonts\Pe-icon-7-stroke.woff
+Content Type: application/x-font-woff
+
+Uri: http://www.rrc.sa/themes/imkan/ar/fonts/Pe-icon-7-stroke.ttf?-2irksn
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\fonts\Pe-icon-7-stroke.bin
+Content Type: application/octet-stream
+
+Uri: http://www.rrc.sa/themes/imkan/ar/fonts/Pe-icon-7-stroke.svg?-2irksn
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\fonts\Pe-icon-7-stroke.svg
+Content Type: image/svg+xml
+
+Uri: http://www.rrc.sa/themes/imkan/ar/images/elements/grabbing.png
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\images\elements\grabbing.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/themes/imkan/ar/fonts/fontawesome-webfont.eot?v=4.1.0
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.rrc.sa/themes/imkan/ar/fonts/fontawesome-webfont.eot?
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.rrc.sa/themes/imkan/ar/fonts/fontawesome-webfont.woff?v=4.1.0
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: http://www.rrc.sa/themes/imkan/ar/fonts/fontawesome-webfont.ttf?v=4.1.0
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\fonts\fontawesome-webfont.bin
+Content Type: application/octet-stream
+
+Uri: http://www.rrc.sa/themes/imkan/ar/fonts/fontawesome-webfont.svg?v=4.1.0
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://www.rrc.sa/themes/imkan/ar/fonts/JF-Flat-regular.eot
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\fonts\JF-Flat-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.rrc.sa/themes/imkan/ar/fonts/JF-Flat-regular.eot?
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\fonts\JF-Flat-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.rrc.sa/themes/imkan/ar/fonts/JF-Flat-regular.woff
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\fonts\JF-Flat-regular.woff
+Content Type: application/x-font-woff
+
+Uri: http://www.rrc.sa/themes/imkan/ar/fonts/JF-Flat-regular.ttf
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\fonts\JF-Flat-regular.bin
+Content Type: application/octet-stream
+
+Uri: http://www.rrc.sa/themes/imkan/ar/fonts/JF-Flat-regular.svg
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\fonts\JF-Flat-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://www.rrc.sa/themes/imkan/ar/images/elements/pattern.png
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\images\elements\pattern.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/themes/imkan/ar/fonts/ytp-regular.eot
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\fonts\ytp-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.rrc.sa/themes/imkan/ar/fonts/ytp-regular.ttf
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\fonts\ytp-regular.bin
+Content Type: application/octet-stream
+
+Uri: http://www.rrc.sa/themes/imkan/ar/images/bg/bg1.jpg
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\images\bg\bg1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/themes/imkan/ar/images/elements/arrow-up.png
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\images\elements\arrow-up.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/themes/imkan/ar/images/elements/arrow-up-light.png
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\images\elements\arrow-up-light.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/themes/imkan/ar/images/elements/pattern-light.png
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\images\elements\pattern-light.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/themes/imkan/ar/images/bg/bg-contact.jpg
+File Name: D:\Private\www.rrc.sa\themes\imkan\ar\images\bg\bg-contact.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/themes/imkan/en/css/grid.css
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\css\grid.css
+Content Type: text/css
+
+Uri: http://www.rrc.sa/themes/imkan/en/css/pe-icon-7-stroke.css
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\css\pe-icon-7-stroke.css
+Content Type: text/css
+
+Uri: http://www.rrc.sa/themes/imkan/en/css/owl.carousel.css
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\css\owl.carousel.css
+Content Type: text/css
+
+Uri: http://www.rrc.sa/themes/imkan/en/css/magnific-popup.css
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://www.rrc.sa/themes/imkan/en/css/font-awesome.min.css
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://www.rrc.sa/themes/imkan/en/css/animate.min.css
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\css\animate.min.css
+Content Type: text/css
+
+Uri: http://www.rrc.sa/themes/imkan/en/css/style.css
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\css\style.css
+Content Type: text/css
+
+Uri: http://www.rrc.sa/themes/imkan/en/css/color.css
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\css\color.css
+Content Type: text/css
+
+Uri: http://www.rrc.sa/themes/imkan/en/images/elements/favicon.ico
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\images\elements\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://www.rrc.sa/en/properties/riyadh/rrc-building/
+File Name: D:\Private\www.rrc.sa\en\properties\riyadh\rrc-building\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/en/properties/riyadh/alhassan-square/
+File Name: D:\Private\www.rrc.sa\en\properties\riyadh\alhassan-square\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/en/properties/riyadh/alwadi-square/
+File Name: D:\Private\www.rrc.sa\en\properties\riyadh\alwadi-square\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/en/properties/riyadh/food-9/
+File Name: D:\Private\www.rrc.sa\en\properties\riyadh\food-9\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/en/properties/arras/oasis-center/
+File Name: D:\Private\www.rrc.sa\en\properties\arras\oasis-center\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/en/properties/majmaah/majmaah-mall/
+File Name: D:\Private\www.rrc.sa\en\properties\majmaah\majmaah-mall\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/en/properties/hail/aja-plaza/
+File Name: D:\Private\www.rrc.sa\en\properties\hail\aja-plaza\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/en/properties/shaqraa/basatin-mall/
+File Name: D:\Private\www.rrc.sa\en\properties\shaqraa\basatin-mall\index.htm
+Content Type: text/html
+
+Uri: http://www.rrc.sa/themes/imkan/en/js/jquery.min.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/en/js/modernizr.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\js\modernizr.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/en/images/elements/logo.png
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\images\elements\logo.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1001/icn-tenant-representation-1.png
+File Name: D:\Private\www.rrc.sa\media\1001\icn-tenant-representation-1.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1002/icn-retail-leasing-1.png
+File Name: D:\Private\www.rrc.sa\media\1002\icn-retail-leasing-1.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1003/icn-malls-management-1.png
+File Name: D:\Private\www.rrc.sa\media\1003\icn-malls-management-1.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1004/icn-development-consulting-1.png
+File Name: D:\Private\www.rrc.sa\media\1004\icn-development-consulting-1.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1005/icn-research-marketing-1.png
+File Name: D:\Private\www.rrc.sa\media\1005\icn-research-marketing-1.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1626/03-1.jpg?crop=0.262488978396076,0.1184487469843926,0.093859886839599754,0.06521529406911783&cropmode=percentage&width=400&height=255&rnd=130678824610000000
+File Name: D:\Private\www.rrc.sa\media\1626\03-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1640/02.jpg?crop=0.12818692291731507,0.0000000000000001114576840408,0.083349543521112263,0&cropmode=percentage&width=400&height=255&rnd=130678826880000000
+File Name: D:\Private\www.rrc.sa\media\1640\02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1654/04.jpg?crop=0.085332860440728492,0.22525088287989747,0.3920544057595946,0.1145310121272996&cropmode=percentage&width=400&height=255&rnd=130678832490000000
+File Name: D:\Private\www.rrc.sa\media\1654\04.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1668/day_aerial.jpg?crop=0.23527018229166666,0.053466796875,0.243896484375,0.282470703125&cropmode=percentage&width=400&height=255&rnd=130678834220000000
+File Name: D:\Private\www.rrc.sa\media\1668\day_aerial.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1690/01.jpg?crop=0.35719545240339295,0,0.014466501727929838,0.0000000000000001114576840408&cropmode=percentage&width=400&height=255&rnd=130678835270000000
+File Name: D:\Private\www.rrc.sa\media\1690\01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1712/07.jpg?crop=0.63450980392156864,0.0000000000000001114576840408,0,0&cropmode=percentage&width=400&height=255&rnd=130678836160000000
+File Name: D:\Private\www.rrc.sa\media\1712\07.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1734/3-small.jpg?crop=0.017095588235294119,0,0.19859068627450979,0&cropmode=percentage&width=400&height=255&rnd=130678837000000000
+File Name: D:\Private\www.rrc.sa\media\1734\3-small.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1756/3.jpg?crop=0.12808333333333338,0.0000000000000002229153680816,0.26538071895424808,0&cropmode=percentage&width=400&height=255&rnd=130678845290000000
+File Name: D:\Private\www.rrc.sa\media\1756\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/themes/imkan/en/js/device.min.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\js\device.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/en/js/jquery.queryloader2.min.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\js\jquery.queryloader2.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/en/js/SmoothScroll.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\js\SmoothScroll.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/en/js/owl.carousel.min.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/en/js/isotope.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\js\isotope.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/en/js/jquery.isotope.sloppy-masonry.min.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\js\jquery.isotope.sloppy-masonry.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/en/js/jquery.parallax.min.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\js\jquery.parallax.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/en/js/jquery.scrollTo.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\js\jquery.scrollTo.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/en/js/waypoints.min.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/en/js/jquery.mb.YTPlayer.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\js\jquery.mb.YTPlayer.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/en/js/jquery.magnific-popup.min.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/en/js/easypiechart.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\js\easypiechart.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/en/js/typed.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\js\typed.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/en/js/wow.min.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\js\wow.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/en/js/retina.min.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\js\retina.min.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/en/js/jquery.soc-share.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\js\jquery.soc-share.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/en/js/custom.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\js\custom.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/themes/imkan/en/js/canvas.js
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\js\canvas.js
+Content Type: application/javascript
+
+Uri: http://www.rrc.sa/media/657/logo.png
+File Name: D:\Private\www.rrc.sa\media\657\logo.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1012/03.jpg
+File Name: D:\Private\www.rrc.sa\media\1012\03.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1025/logo.png
+File Name: D:\Private\www.rrc.sa\media\1025\logo.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1024/02.jpg
+File Name: D:\Private\www.rrc.sa\media\1024\02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1028/logo.png
+File Name: D:\Private\www.rrc.sa\media\1028\logo.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1027/01.jpg
+File Name: D:\Private\www.rrc.sa\media\1027\01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1030/day_normal.jpg
+File Name: D:\Private\www.rrc.sa\media\1030\day_normal.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1031/day_aerial.jpg
+File Name: D:\Private\www.rrc.sa\media\1031\day_aerial.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1767/1-rev-01.jpg
+File Name: D:\Private\www.rrc.sa\media\1767\1-rev-01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1763/6-rev-02.jpg
+File Name: D:\Private\www.rrc.sa\media\1763\6-rev-02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1764/2.jpg
+File Name: D:\Private\www.rrc.sa\media\1764\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/5848/shorofat-final-nezar-03png134.png
+File Name: D:\Private\www.rrc.sa\media\5848\shorofat-final-nezar-03png134.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5833/الندى-4.png
+File Name: D:\Private\www.rrc.sa\media\5833\الندى-4.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5835/الندى-2.png
+File Name: D:\Private\www.rrc.sa\media\5835\الندى-2.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5836/الندى-3.png
+File Name: D:\Private\www.rrc.sa\media\5836\الندى-3.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5837/الندى-4.png
+File Name: D:\Private\www.rrc.sa\media\5837\الندى-4.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5834/الندى-1.png
+File Name: D:\Private\www.rrc.sa\media\5834\الندى-1.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5849/shorofat-final-nezar-03png-ا123456لخير.png
+File Name: D:\Private\www.rrc.sa\media\5849\shorofat-final-nezar-03png-ا123456لخير.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5839/الخير-1.png
+File Name: D:\Private\www.rrc.sa\media\5839\الخير-1.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5838/الخير-0.png
+File Name: D:\Private\www.rrc.sa\media\5838\الخير-0.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5842/الخير.png
+File Name: D:\Private\www.rrc.sa\media\5842\الخير.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5880/مقاس-شعار-الرمال-شرفات-في-موقع-عقارات-التجزئة.png
+File Name: D:\Private\www.rrc.sa\media\5880\مقاس-شعار-الرمال-شرفات-في-موقع-عقارات-التجزئة.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5879/15.png
+File Name: D:\Private\www.rrc.sa\media\5879\15.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5878/14.png
+File Name: D:\Private\www.rrc.sa\media\5878\14.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5877/13-بدون-قص.png
+File Name: D:\Private\www.rrc.sa\media\5877\13-بدون-قص.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5873/9.png
+File Name: D:\Private\www.rrc.sa\media\5873\9.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5871/7.png
+File Name: D:\Private\www.rrc.sa\media\5871\7.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5870/5.png
+File Name: D:\Private\www.rrc.sa\media\5870\5.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5869/6.png
+File Name: D:\Private\www.rrc.sa\media\5869\6.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5868/4.png
+File Name: D:\Private\www.rrc.sa\media\5868\4.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5865/1.png
+File Name: D:\Private\www.rrc.sa\media\5865\1.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5863/shorofat-final-neza9090909-الفروب.png
+File Name: D:\Private\www.rrc.sa\media\5863\shorofat-final-neza9090909-الفروب.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5858/web-11.png
+File Name: D:\Private\www.rrc.sa\media\5858\web-11.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5853/web-2.png
+File Name: D:\Private\www.rrc.sa\media\5853\web-2.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5854/web4.png
+File Name: D:\Private\www.rrc.sa\media\5854\web4.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5856/webn-6.png
+File Name: D:\Private\www.rrc.sa\media\5856\webn-6.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5855/web-5.png
+File Name: D:\Private\www.rrc.sa\media\5855\web-5.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5861/web-14.png
+File Name: D:\Private\www.rrc.sa\media\5861\web-14.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5860/web-13.png
+File Name: D:\Private\www.rrc.sa\media\5860\web-13.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5859/web-12.png
+File Name: D:\Private\www.rrc.sa\media\5859\web-12.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5851/web-1.png
+File Name: D:\Private\www.rrc.sa\media\5851\web-1.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5857/web-10.png
+File Name: D:\Private\www.rrc.sa\media\5857\web-10.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1014/logo.png
+File Name: D:\Private\www.rrc.sa\media\1014\logo.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1015/04.jpg
+File Name: D:\Private\www.rrc.sa\media\1015\04.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1016/01.jpg
+File Name: D:\Private\www.rrc.sa\media\1016\01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1017/05.jpg
+File Name: D:\Private\www.rrc.sa\media\1017\05.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1018/logo.png
+File Name: D:\Private\www.rrc.sa\media\1018\logo.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1019/07.jpg
+File Name: D:\Private\www.rrc.sa\media\1019\07.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1020/06.jpg
+File Name: D:\Private\www.rrc.sa\media\1020\06.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1033/logo.png
+File Name: D:\Private\www.rrc.sa\media\1033\logo.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1037/1.jpg
+File Name: D:\Private\www.rrc.sa\media\1037\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1038/3.jpg
+File Name: D:\Private\www.rrc.sa\media\1038\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1039/2.jpg
+File Name: D:\Private\www.rrc.sa\media\1039\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1022/logo.png
+File Name: D:\Private\www.rrc.sa\media\1022\logo.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1006/b2-1.jpg
+File Name: D:\Private\www.rrc.sa\media\1006\b2-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1007/b3-1.jpg
+File Name: D:\Private\www.rrc.sa\media\1007\b3-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/5824/untitled-4png-النقرة.png
+File Name: D:\Private\www.rrc.sa\media\5824\untitled-4png-النقرة.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5821/untitled-4pngنهران-مول.png
+File Name: D:\Private\www.rrc.sa\media\5821\untitled-4pngنهران-مول.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5822/untitled-1نهران-مول.png
+File Name: D:\Private\www.rrc.sa\media\5822\untitled-1نهران-مول.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5830/بطحاء-قريش1.png
+File Name: D:\Private\www.rrc.sa\media\5830\بطحاء-قريش1.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5850/rakkah.png
+File Name: D:\Private\www.rrc.sa\media\5850\rakkah.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5846/راكة1.png
+File Name: D:\Private\www.rrc.sa\media\5846\راكة1.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5847/راكة.png
+File Name: D:\Private\www.rrc.sa\media\5847\راكة.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5845/راكة-2.png
+File Name: D:\Private\www.rrc.sa\media\5845\راكة-2.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5844/راكة-4.png
+File Name: D:\Private\www.rrc.sa\media\5844\راكة-4.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/5843/راكة-3.png
+File Name: D:\Private\www.rrc.sa\media\5843\راكة-3.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/themes/imkan/en/fonts/Pe-icon-7-stroke.eot?-2irksn
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\fonts\Pe-icon-7-stroke.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.rrc.sa/themes/imkan/en/fonts/Pe-icon-7-stroke.eot?
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\fonts\Pe-icon-7-stroke-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.rrc.sa/themes/imkan/en/fonts/Pe-icon-7-stroke.woff?-2irksn
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\fonts\Pe-icon-7-stroke.woff
+Content Type: application/x-font-woff
+
+Uri: http://www.rrc.sa/themes/imkan/en/fonts/Pe-icon-7-stroke.ttf?-2irksn
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\fonts\Pe-icon-7-stroke.bin
+Content Type: application/octet-stream
+
+Uri: http://www.rrc.sa/themes/imkan/en/fonts/Pe-icon-7-stroke.svg?-2irksn
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\fonts\Pe-icon-7-stroke.svg
+Content Type: image/svg+xml
+
+Uri: http://www.rrc.sa/themes/imkan/en/images/elements/grabbing.png
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\images\elements\grabbing.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/themes/imkan/en/fonts/fontawesome-webfont.eot?v=4.1.0
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.rrc.sa/themes/imkan/en/fonts/fontawesome-webfont.eot?
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.rrc.sa/themes/imkan/en/fonts/fontawesome-webfont.woff?v=4.1.0
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: http://www.rrc.sa/themes/imkan/en/fonts/fontawesome-webfont.ttf?v=4.1.0
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\fonts\fontawesome-webfont.bin
+Content Type: application/octet-stream
+
+Uri: http://www.rrc.sa/themes/imkan/en/fonts/fontawesome-webfont.svg?v=4.1.0
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://www.rrc.sa/themes/imkan/en/images/elements/pattern.png
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\images\elements\pattern.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/themes/imkan/en/fonts/ytp-regular.eot
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\fonts\ytp-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.rrc.sa/themes/imkan/en/fonts/ytp-regular.ttf
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\fonts\ytp-regular.bin
+Content Type: application/octet-stream
+
+Uri: http://www.rrc.sa/themes/imkan/en/images/bg/bg1.jpg
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\images\bg\bg1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/themes/imkan/en/images/elements/arrow-up.png
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\images\elements\arrow-up.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/themes/imkan/en/images/elements/arrow-up-light.png
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\images\elements\arrow-up-light.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/themes/imkan/en/images/elements/pattern-light.png
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\images\elements\pattern-light.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/themes/imkan/en/images/bg/bg-contact.jpg
+File Name: D:\Private\www.rrc.sa\themes\imkan\en\images\bg\bg-contact.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1621/logo-4.png
+File Name: D:\Private\www.rrc.sa\media\1621\logo-4.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1635/logo.png
+File Name: D:\Private\www.rrc.sa\media\1635\logo.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1649/logo.png
+File Name: D:\Private\www.rrc.sa\media\1649\logo.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1685/logo.png
+File Name: D:\Private\www.rrc.sa\media\1685\logo.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1707/logo.png
+File Name: D:\Private\www.rrc.sa\media\1707\logo.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1729/logo.png
+File Name: D:\Private\www.rrc.sa\media\1729\logo.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1751/logo.png
+File Name: D:\Private\www.rrc.sa\media\1751\logo.png
+Content Type: image/png
+
+Uri: http://www.rrc.sa/media/1035/03.jpg
+File Name: D:\Private\www.rrc.sa\media\1035\03.jpg
+Content Type: image/jpeg
+
+Uri: http://www.rrc.sa/media/1036/02.jpg
+File Name: D:\Private\www.rrc.sa\media\1036\02.jpg
+Content Type: image/jpeg
+
